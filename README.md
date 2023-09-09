@@ -5,5 +5,5 @@ The top module is Processor.v. Further explanations are in Report.pdf.
 
 Contributers:
 
-Armin Asgharifard
+Armin Asgharifard,
 Behiç Erdem
